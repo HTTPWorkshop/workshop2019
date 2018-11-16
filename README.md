@@ -18,7 +18,7 @@ We anticipate most major HTTP implementations being represented, including brows
 
 In addition, we'd like to see active participation from practitioners at scale. If you work with large-scale HTTP deployments, whether that's serving "traditional" Web pages or using HTTP for back-end APIs, please consider attending.
 
-This year, we want to **grow the diversity of our participants**. If you you someone who cares about HTTP, has made contributions, or wants to build their career around it, please tell us!
+This year, we want to **grow the diversity of our participants**. If you know someone who cares about HTTP, has made contributions, or wants to build their career around it, please tell us!
 
 Finally, if you are a student working in a relevant area, this is a great opportunity to gain insight into this community.
 
