@@ -56,9 +56,9 @@ Please [make statements of interest using this form](https://goo.gl/forms/NyF9xJ
 
 ## Important Dates
 
-* Statement of Interest by: 10 January 2019
-* Attendees Notified by: 1 February 2019
-* Attendee Confirmation by: 15 February 2019
+* Statement of Interest by: 31 December 2018
+* Attendees Notified by: 15 January 2019
+* Attendee Confirmation by: 1 February 2019
 * HTTP Workshop: 2-4 April 2019
 
 
