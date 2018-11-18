@@ -43,7 +43,7 @@ We’re looking for people who can talk about things like:
 * Work on HTTP itself, with or without the constraint of backwards compatibility
 * Their opinions about what the HTTP community should (or should not) focus its energy on
 
-If this sounds like you, please send a statement of interest to the Program Committee. 
+If this sounds like you, please send a statement of interest to the Program Committee. We'll use the statements to select attendees and to guide the content of the workshop itself.
 
 You can include as much or as little information as you like in it, but the more context we have for who's interested in coming, the better. If you are the primary maintainer of an implementation of HTTP, please mention its details in your statement. If you have ideas about what topics the Workshop should cover (or not), we'd love to hear them.
 
