@@ -11,6 +11,7 @@ As they have always been, our goals are to:
 * **Identify** areas of work or specific efforts that have common interest, to foster further work (in standards bodies and in implementations)
 * **Ensure** broad input into future development of the protocol
 
+See [previous years' reports](https://httpworkshop.github.io/) for an idea of what goes on.
 
 ## Who Should Come?
 
