@@ -1,7 +1,7 @@
 
 # 2019 HTTP Workshop
 
-**The fourth HTTP Workshop is on for 2019.**
+**The fourth HTTP Workshop is on for 2019: 2-4 April in Amsterdam.**
 
 This is a unique event; most of the time is unstructured, promoting unfiltered discussion among the major implementers and practitioners of HTTP. Each day will have a few "anchor" talks to stimulate discussion, but we expect attendees to drive most of the agenda. 
 
