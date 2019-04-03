@@ -68,6 +68,9 @@ Please [make statements of interest using this form](https://goo.gl/forms/NyF9xJ
 Thanks to the generous sponsorship of DATACTIVE, there will be no meeting fee. However, if you would like to sponsor a lunch, dinner, or social event, please contact [Mark Nottingham](mailto:mnot@mnot.net).
 
 [![DATACTIVE](asset/datactive.png)](https://data-activism.net)
+[![Fastly](asset/fastly.png)](https://fastly.com)
+[![HAProxy](asset/haproxy.png)](https://www.haproxy.com)
+[![UPLEX](asset/uplex.png)](https://uplex.de)
 
 ## Program Committee 
 
